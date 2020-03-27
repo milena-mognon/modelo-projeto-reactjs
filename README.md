@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Logo ReactJS" src=".github/logo-react.png" width="200px" />
+    <img alt="Logo ReactJS" src=".github/logo-react.png" width="300px" />
 </h1>
 
 <h3 align="center">
