@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Logo ReactJS" src="https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/Iq6QSY8vRs6XAaOJ10UP" width="200px" />
+    <img alt="Logo ReactJS" src="https://lh3.googleusercontent.com/proxy/_7PpX0LXM8PjfzdzPu-z3aaI-MmpxjZtFp-DgufC1PRC0oLh8MAJ-d1LdddqP3qfYBE9kxtxRQyILi1ZgohJoryUMl97I0cEISkpDg1eed-hv0VRhS8Yb-MvArY" width="200px" />
 </h1>
 
 <h3 align="center">
